@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f6;
+}
+
+h1 {
+    color: #1c1e21;
+}
+
+h2 {
+    color: #1c1e21;
+}
+
+.sidebar .block-container {
+    background-color: #f0f2f6;
+}
+
+.streamlit-button.primary-button {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
